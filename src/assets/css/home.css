@@ -1,0 +1,131 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    background-color: #191919;
+    position: relative;
+}
+
+/* Hero */
+
+.hero{
+    color: #fff;
+}
+
+.text-box{
+  
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    
+}
+
+.text-box h1{
+    
+    font-size: 55px;
+}
+
+/* .text-box .btn{
+    color: #fff;
+    background-color: #C84B31;
+    font-weight: 500;
+    cursor: pointer;
+} */
+
+.text-box .btn:hover{
+    background-color: #ff5d3b;
+    color: #191919;
+    
+}
+
+.hero-img{
+    width: 540px;
+    position: absolute;
+    right: 0.1%;
+    bottom: 0;
+}
+
+.content{
+    height: 90vh;
+}
+.typing{
+    color: #C84B31;
+}
+
+
+/* Home about */
+
+.homeabout{
+    width: 100%;
+    height: 100vh;
+    background-color: #212020;
+   
+}
+
+.about-img{
+    width: 460px;
+    border: #C84B31 4px solid;
+    padding-top: 100px;
+}
+
+h2{
+    color: #C84B31;
+}
+
+
+/* Home Portfolio */
+
+.homeportfolio{
+    width: 100%;
+    height: 100vh;
+    background-color: #191919;
+}
+
+.homeportfolio img{
+    width: 460px;
+    border: #C84B31 4px solid;
+    padding: 100px 40px 0 40px;
+}
+
+
+/* Home Negotiate */
+.homenegotiate{
+    width: 100%;
+    height: 100vh;
+    background-color: #212020;
+    padding-top: 8%;
+}
+
+.homenegotiate img{
+    width: 460px;
+    border: #C84B31 4px solid;
+    padding: 60px 40px 0 40px;
+    
+}
+
+.homenegotiate h2{
+    font-size: 40px;
+    color: #fff;
+}
+
+.homenegotiate strong{
+    color: #C84B31;
+}
+
+/* .homenegotiate .btn{
+    font-size: 18px;
+} */
+/* .homenegotiate .btn{
+    color: #fff;
+    background-color: #C84B31;
+    font-weight: 500;
+    cursor: pointer;
+} */
+
+
+
+/* Home Contact */
+.homecontact{
+    width: 100%;
+    height: 100vh;
+    background-color: #191919;
+}

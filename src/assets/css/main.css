@@ -1,0 +1,90 @@
+#app{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.5); 
+    border-radius: 5px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #C84B31;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+    color: #C84B31 !important;
+}
+
+.btn{
+    cursor: pointer;
+    color: #fff;
+    background-color: #C84B31;
+    font-weight: 500;
+    /* cursor: pointer; */
+}
+
+.link{
+    color: #C84B31;
+}
+
+.link:hover{
+    color: #ff5d3b;
+    text-decoration: none;
+}
+
+/* Footer */
+
+.footer{
+    background-color: #191919;
+    padding: 100px 0 10px 0;
+    
+}
+
+.footer .socmed{
+    color: #C84B31;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer .socmed:hover{
+    color: #fff;
+}
+
+.footer p{
+    font-size: 14px;
+}
+
+.bold{
+    color: #C84B31;
+}
+
+.portfolio{
+    background-color: #212020;
+    width: 100%;
+}
+
+.portfolio-hero img{
+    width: 500px;
+}
+
+.notification{
+    border-top: 6px solid #C84B31;
+    border-radius: 8px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+
+.certificate{
+    background-color: #212020;
+}
+

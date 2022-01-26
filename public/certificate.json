@@ -1,0 +1,142 @@
+[
+    {
+        "tittle": "Cakap English for Beginner Software Engineer",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1ZSspDiNvh88JbdvvEYuBqNNufK0uBPs3"
+    },
+    {
+        "tittle": "Progate X Kotakode Bootcamp",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1xRmK0qzH3vqtDC0D3uknqjHDvqKl83yE"
+    },
+    {
+        "tittle": "Dicoding - Belajar Dasar Pemrograman Web ",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1T4SAAeago7xIpHvh701aePPBKdYuj5sT"
+    },
+    {
+        "tittle": "Progate - Kursus HTML & CSS",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1J3VgWmzBmhIg9G5MQ3ZTmPNq5D_Qmxub"
+    },
+    {
+        "tittle": "Progate - Kursus Javascript",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1-vaWItynU2_yzmoJGOWBywy9_Dl4V8s5"
+    },
+    {
+        "tittle": "Progate - Kursus Git",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=145u52DmG6s6CMVH8M4CwwC-LjdgyMJHR"
+    },
+    {
+        "tittle": "Progate - Kursus Command Line",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=13T_UQxIYvXDdhtn94yIxyI3XnYnCHYE1"
+    },
+    {
+        "tittle": "Progate - Kursus Sass",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=17UNyFrHY_cKwGTnlvFsr8fn72JdY6bzz"
+    },
+    {
+        "tittle": "Progate - Kursus SQL",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=13T3Nvgnzck5QzCEyf9aDKIU0X4YPVOsF"
+    },
+    {
+        "tittle": "Sololearn - Javascript",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1iZByAu-WCx6mC7LjdJlG1yyvyxsqM-E3"
+    },
+    {
+        "tittle": "Sololearn - Python for Beginner",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1j_e28-NBAzzolWfhdda0M_5j3nhLbJUL"
+    },
+    {
+        "tittle": "XLFL - Assertive Communication",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1QsvofVF8uwzrKQW81YeJTjHB7NBfvCHA"
+    },
+    {
+        "tittle": "XLFL - Career Planning for Fresh Graduate",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1Jw7w3bPgrniwV3oJp0NoP8vjwQNVPZ0H"
+    },
+    {
+        "tittle": "XLFL - Effective Writing for CV and Cover Letter",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1-gk9YORXZgjlLbIuqDBXh4Wqjn0WlGNo"
+    },
+    {
+        "tittle": "XLFL - Diversity in Workplace",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1qxjJ5ow2tk0aUr-PM1GBiA6NHYsCxe6b"
+    },
+    {
+        "tittle": "XLFL - Job Interview Preparation",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1UhDqk3EthWH6P_sRf2oufUqsnwdIQSU5"
+    },
+    {
+        "tittle": "XLFL - The Art of Elevator Pitch",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=11xPJDWewKf960FvS9krw05Fi2bnpBWV0"
+    },
+    {
+        "tittle": "BitDegree - Introducing Coding for Beginners",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1Q88EQHkUvdpowe4iB2cSkyMZrGdOADjO"
+    },
+    {
+        "tittle": "BitDegree - an Interactive Solidity Tutorial",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=1dOOhV4NAzSgc3Eqz0b7swMVL4eDILDvs"
+    },
+    {
+        "tittle": "Dicoding - Android | Reactive Programming dengan RxJava & Flow",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1a_6GYeB1UNos1z7t0Q_oLEZCycsfcc-C"
+    },
+    {
+        "tittle": "Nusatalent - 100+1= UX Writing for Beginner",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1gv3hdXa7TmBBu3-EI408zWMcjOpGtHrE"
+    },
+    {
+        "tittle": "Exabytes - Full Stack UX: From Research to Implementation",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1FSLyyQQx0e5ee7MZsX3bvbtB3jJ9pEuC"
+    },
+    {
+        "tittle": "Widya Analytics - How to be IT Infrastructure Engineer",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1ECHEU-ZeNcj5YqDfvbSPQgQh7cPoAkMc"
+    },
+    {
+        "tittle": "Klob - Understand your Personality, Optimize your Potential",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1zk_qFbQpRe8Bebj5zYYw2TsNp0aIwOoO"
+    },
+    {
+        "tittle": "Kreen - 101 Startup VS Company",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1IEzE82aDwR13idtnOhQnqmNVgDL-QkGD"
+    },
+    {
+        "tittle": "Bisa.Ai - Teknik menguasai Framework Codeigniter",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=1ut48UMPHPii7LhQkSOf4MAolXXBdzDYW"
+    },
+    {
+        "tittle": "Bisa.Ai - The Power of Language Programming in the World",
+        "type": "seminar",
+        "image": "https://drive.google.com/uc?export=view&id=16i5aaB55Sid2DUG--iynsi2l43rbrhH7"
+    }
+
+    
+    
+    
+    
+]
