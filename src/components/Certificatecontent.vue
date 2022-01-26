@@ -8,6 +8,7 @@
               :src="data.image"
               class="card-img-top"
               alt="..."
+              :title="data.tittle"
             >
           </div>
         </div>

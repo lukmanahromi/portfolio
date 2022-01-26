@@ -1,28 +1,39 @@
 [
     {
-        "tittle": "Web Portfolio (This Website)",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
+        "tittle": "Lukman Ahromi's Portfolio (This website)",
+        "description": "A portfolio website that shows Ahromi's work as Frontend Enthusiast. This website build by Vue.js.",
         "type": "website",
         "image": "https://drive.google.com/uc?export=view&id=1XpDmKMuAozIC51h2-PHBbP3JX7SVsU9x",
-        "link": "https://github.com/lukmanahromi/OCA-test"
+        "link": "https://github.com/lukmanahromi/OCA-test",
+        "category": "Vue.js, Bootstrap, HTML, CSS, Javascript",
+        "year": "Jan, 2022"
     },
     {
-        "tittle": "Image Classification Using ResNet-152 (UI/UX)",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "tittle": "Thesis Web App Design (UI/UX)",
+        "description": "Web design for thesis web app Image classification. A UI design as guide to build the website",
         "type": "ui/ux",
-        "image": "https://drive.google.com/uc?export=view&id=1ClWboJopFTGcXyxahzRbBqzHpCQonlw8"
+        "image": "https://drive.google.com/uc?export=view&id=1ClWboJopFTGcXyxahzRbBqzHpCQonlw8",
+        "link": "https://xd.adobe.com/view/80f2e4a8-7fb1-455f-8ebb-d96958bad077-d5a1/",
+        "category": "Adobe XD, Adobe Photoshop CC 2017",
+        "year": "April, 2021"
     },
     {
-        "tittle": "Image Classification Using ResNet-152 (Website)",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "tittle": "Thesis Web App",
+        "description": "An Image classification web app using python as backend and html, css, & javascript as frontend. The website was built as final project to finish my degree at college.",
         "type": "website",
-        "image": "https://drive.google.com/uc?export=view&id=1RkZ78LiRez9_K2IUf-5XmYqhE7psH7UG"
+        "image": "https://drive.google.com/uc?export=view&id=1RkZ78LiRez9_K2IUf-5XmYqhE7psH7UG",
+        "link": "https://github.com/lukmanahromi/OCA-test",
+        "category": "Python, Tensorflow, Keras, HTML, CSS, Javascript, Bootstrap",
+        "year": "Mei, 2021 - Juni, 2021"
     },
     {
-        "tittle": "Arsip Bappeda (Website)",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "tittle": "Data Archiving Website",
+        "description": "A data archiving web app for internal office of BAPPEDA Jawa Barat. Helping employees more easy to find an old letters, because the previous system is using paper based. I do collaborate with a friend to build the app.",
         "type": "website",
-        "image": "https://drive.google.com/uc?export=view&id=1a_F53pLuhPSLfFKQjUzvpdxRSzfcLIu3"
+        "image": "https://drive.google.com/uc?export=view&id=1a_F53pLuhPSLfFKQjUzvpdxRSzfcLIu3",
+        "link": "#",
+        "category": "Adobe XD, Adobe Photoshop CC 2017",
+        "year": "Juni, 2019 - August, 2019"
     }
     
 ]

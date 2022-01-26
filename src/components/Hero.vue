@@ -27,7 +27,7 @@
             <button class="btn ml-4">
               <b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me
             </button> -->
-            <a href="#homeabout" class="btn" role="button" data-bs-toggle="button"><b-icon-person-fill class="mr-2"></b-icon-person-fill>About me</a>
+            <a href="#homeabout" class="btn" role="button" data-bs-toggle="button">About me</a>
           </div>
         </div>
       </div>

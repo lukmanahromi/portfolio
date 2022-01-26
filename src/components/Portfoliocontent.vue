@@ -1,21 +1,25 @@
 <template>
   <div class="portfolio-content my-4">
     <div class="containe">
-      <div class="row d-flex justify-content-center">
-        <div class="col-sm-10 mb-4" v-for="(data, index) in portfolio" :key="index">
+      <div class="row">
+        <div v-for="(data, index) in portfolio" :key="index">
           <div v-if="data.type == target || target === ''">
-            <div>
-              <div>
-                <b-card-group deck>
-                  <b-card :img-src="data.image" img-alt="Card image" img-top>
-                    <!-- <img src="/assets/img/hero.png" alt="" srcset=""> -->
-                  <h4 class="bold"><strong>{{data.tittle}}</strong></h4>
-                    <b-card-text class="text-dark">{{data.description}} <a class="link" :href="data.link">aku</a></b-card-text>
-                    <!-- <router-link class="link" :to="data.link"> Click here</router-link> -->
-                    
-                    <!-- <b-card-text class="text-dark">Kategori : {{data.type}}</b-card-text> -->
-                  </b-card>
-                </b-card-group>
+            <div class="row mx-auto my-4">
+              <div class="col-md-8 pr-4">
+                <img class="w-100" :src="data.image" alt srcset>
+              </div>
+              <div class="col-md-4">
+                <div class="portfolio-tittle">
+                  <h3 class="bold border-bottom pb-2">
+                    <strong>{{data.tittle}}</strong>
+                  </h3>
+                </div>
+                <div class="portfolio-body">
+                  <span class="text-secondary font-italic">{{data.year}}</span>
+                  <p class="pt-2">{{data.description}}</p>
+                  <p class="bold">{{data.category}}</p>
+                  <a :href="data.link" class="btn">View Repository</a>
+                </div>
               </div>
             </div>
           </div>

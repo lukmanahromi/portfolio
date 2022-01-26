@@ -44,6 +44,12 @@
     bottom: 0;
 }
 
+.hero-img:hover{
+    -ms-transform: none;
+    -webkit-transform: none; 
+    transform: none;
+}
+
 .content{
     height: 90vh;
 }

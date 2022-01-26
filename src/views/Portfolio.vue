@@ -3,7 +3,7 @@
     <div class="container">
       <Navbar/>
       <Portfoliohero/>
-      <div class="notification p-3 my-4 shadow">
+      <div class="notification py-3 px-4 my-4 shadow">
         <h2>Portfolio</h2>
         <p>
           On this page you can find my recent work of projects related to Web programming and UI/UX.

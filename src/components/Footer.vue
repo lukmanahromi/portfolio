@@ -57,7 +57,7 @@
               <b-icon-telephone-fill class="mx-2"></b-icon-telephone-fill>
             </a>
           </div>
-          <p>&copy; 2021 Copyright - Lukman Ahromi</p>
+          <p>&copy; 2022 Copyright - Lukman Ahromi</p>
         </div>
       </div>
     </div>

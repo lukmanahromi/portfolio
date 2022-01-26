@@ -29,7 +29,20 @@
     color: #fff;
     background-color: #C84B31;
     font-weight: 500;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 14px;
+    transition: transform .2s;
     /* cursor: pointer; */
+}
+
+.btn:hover{
+    background-color: unset !important;
+    color: #fff !important;
+    border: 1px solid #ff5d3b !important;
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
 }
 
 .link{
@@ -64,7 +77,7 @@
 }
 
 .bold{
-    color: #C84B31;
+    color: #ff5d3b;
 }
 
 .portfolio{
@@ -76,6 +89,17 @@
     width: 500px;
 }
 
+.portfolio-tittle h3{
+    font-size: 26px !important;
+}
+.portfolio-body span{
+    font-size: 13px;
+}
+
+.portfolio p{
+    letter-spacing: 1px;
+    line-height: 26px;
+}
 .notification{
     border-top: 6px solid #C84B31;
     border-radius: 8px;
@@ -88,3 +112,13 @@
     background-color: #212020;
 }
 
+
+img{
+    transition: transform .2s;   
+}
+
+img:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.08);
+}
