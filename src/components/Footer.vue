@@ -18,7 +18,7 @@
         <div class="col-md-12">
           <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container">
-              <button
+              <!-- <button
                 class="navbar-toggler"
                 type="button"
                 data-bs-toggle="collapse"
@@ -28,7 +28,7 @@
                 aria-label="Toggle navigation"
               >
                 <span class="navbar-toggler-icon"></span>
-              </button>
+              </button> -->
               <div
                 class="collapse navbar-collapse"
                 id="navbarSupportedContent"
@@ -76,6 +76,27 @@
               <b-icon-telephone-fill class="mx-2"></b-icon-telephone-fill>
             </a>
           </div>
+
+          <!-- <div class="div">Ahromi</div>
+          <div class="list">
+            <div class="row mx-auto">
+              <div class="col-md-4">
+                <li class="nav-item mx-3">
+                  <router-link class="nav-link text-light" to="/">Home</router-link>
+                </li>
+              </div>
+              <div class="col-md-4">
+                <li class="nav-item mx-3">
+                  <router-link class="nav-link text-light" to="/about">About</router-link>
+                </li>
+              </div>
+              <div class="col-md-4">
+                <li class="nav-item mx-3">
+                  <router-link class="nav-link text-light" to="/portfolio">Portfolio</router-link>
+                </li>
+              </div>
+            </div>
+          </div> -->
           <div>
             <p>&copy; 2022 Copyright - Lukman Ahromi</p>
           </div>

@@ -8,7 +8,7 @@
             data-aos="fade-right"
             data-aos-delay="50"
             data-aos-duration="1000"
-            data-aos-easing="linear"
+            data-aos-easing="linear" 
             data-aos-once="false"
           >
             <vue-typed-js
@@ -32,14 +32,14 @@
         </div>
       </div>
       <div
-        class="col-md-4 ml-auto"
+        class="col-md-4"
         data-aos="zoom-in"
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
         data-aos-once="false"
       >
-        <img src="../assets/img/hero.png" class="hero-img" alt>
+        <img src="../assets/img/hero.png" class="hero-img w-200" alt>
       </div>
     </div>
   </div>

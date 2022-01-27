@@ -6,7 +6,7 @@
           <div v-if="data.type == target || target === ''">
             <div class="row mx-auto my-4">
               <div
-                class="col-md-8 pr-4"
+                class="col-md-8 pr-4 pb-4"
                 data-aos="zoom-in"
                 data-aos-delay="50"
                 data-aos-duration="1000"
