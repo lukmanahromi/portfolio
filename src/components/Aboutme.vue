@@ -1,8 +1,15 @@
 <template>
   <div>
-    <div class="about-me my-4">
+    <div
+      class="about-me my-4"
+      data-aos="fade-left"
+      data-aos-delay="50"
+      data-aos-duration="1000"
+      data-aos-easing="linear"
+      data-aos-once="false"
+    >
       <div class="container">
-        <h1 class="text mt-5 pb-2">
+        <h1 class="text mt-4 pb-2">
           About
           <strong class="bold">Me</strong>
         </h1>

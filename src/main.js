@@ -3,6 +3,8 @@ import App from './App.vue'
 import router from './router'
 import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 import VueTypedJs from 'vue-typed-js'
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 
 
 import 'bootstrap/dist/css/bootstrap.css'
@@ -17,5 +19,8 @@ Vue.config.productionTip = false
 
 new Vue({
   router,
-  render: h => h(App)
+  render: h => h(App),
+  mounted() {
+    AOS.init()
+  }
 }).$mount('#app')

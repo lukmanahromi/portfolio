@@ -1,6 +1,13 @@
 <template>
   <div>
-    <div class="about-experiance my-4 pb-4">
+    <div
+      class="about-experiance my-4 pb-4"
+      data-aos="fade-left"
+      data-aos-delay="50"
+      data-aos-duration="1000"
+      data-aos-easing="linear"
+      data-aos-once="false"
+    >
       <div class="container">
         <h1 class="text mt-3 pb-2">
           Previous

@@ -5,10 +5,24 @@
         <div v-for="(data, index) in portfolio" :key="index">
           <div v-if="data.type == target || target === ''">
             <div class="row mx-auto my-4">
-              <div class="col-md-8 pr-4">
+              <div
+                class="col-md-8 pr-4"
+                data-aos="zoom-in"
+                data-aos-delay="50"
+                data-aos-duration="1000"
+                data-aos-easing="linear"
+                data-aos-once="false"
+              >
                 <img class="w-100" :src="data.image" alt srcset>
               </div>
-              <div class="col-md-4">
+              <div
+                class="col-md-4"
+                data-aos="fade-left"
+                data-aos-delay="50"
+                data-aos-duration="1000"
+                data-aos-easing="linear"
+                data-aos-once="false"
+              >
                 <div class="portfolio-tittle">
                   <h3 class="bold border-bottom pb-2">
                     <strong>{{data.tittle}}</strong>

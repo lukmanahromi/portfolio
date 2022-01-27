@@ -5,9 +5,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
+    "aos": "^3.0.0-beta.6",
     "axios": "^0.24.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",

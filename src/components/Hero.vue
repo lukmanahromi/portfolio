@@ -3,7 +3,14 @@
     <div class="row mt-2 mx-auto content">
       <div class="col-md-8">
         <div class="d-flex h-100">
-          <div class="justify-content-center align-self-center text-box">
+          <div
+            class="justify-content-center align-self-center text-box"
+            data-aos="fade-right"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="linear"
+            data-aos-once="false"
+          >
             <vue-typed-js
               :strings="['Lukman Ahromi', 'Fresh Graduate', 'Frontend Enthusiast', 'Positive Person']"
               :loop="true"
@@ -17,21 +24,21 @@
             </vue-typed-js>
             <p>
               Willing to work as web programer especially frontend, also interested with
-              <br>UI/UX design and QA Engineer. I also motivated to constantly develop  
+              <br>UI/UX design and QA Engineer. I also motivated to constantly develop
               <br>my skills and grow professionally. Let's know me more!
             </p>
-            <!-- <a href="" class="btn">Download CV</a> -->
-            <!-- <button class="btn">
-              <b-icon-download class="mr-2"></b-icon-download>Download CV
-            </button>
-            <button class="btn ml-4">
-              <b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me
-            </button> -->
             <a href="#homeabout" class="btn" role="button" data-bs-toggle="button">About me</a>
           </div>
         </div>
       </div>
-      <div class="col-md-4 ml-auto">
+      <div
+        class="col-md-4 ml-auto"
+        data-aos="zoom-in"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false"
+      >
         <img src="../assets/img/hero.png" class="hero-img" alt>
       </div>
     </div>

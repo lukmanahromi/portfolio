@@ -2,19 +2,25 @@
   <div class="homenegotiate">
     <div class="container text-center">
       <div class="row mx-auto">
-        <div class="col-md-12 text-box mb-5">
+        <div class="col-md-12 text-box mb-5" data-aos="zoom-in"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false">
           <img src="../assets/img/team-collaboration.svg" alt>
         </div>
-        <div class="col-md-12 text-box mb-4">
+        <div class="col-md-12 text-box mb-4" data-aos="fade-right"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false">
           <h2>Let's <Strong>Talk</Strong>, <strong>Collaborate</strong> And <strong>Work</strong>  Together!</h2>
         </div>
-        <div class="col-md-12 text-box">
-             <!-- <button class="btn">
-              <b-icon-download class="mr-2"></b-icon-download>Download CV
-            </button> -->
-            <!-- <button class="btn ml-4">
-              <b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me
-            </button> -->
+        <div class="col-md-12 text-box" data-aos="zoom-in"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false">
             <a href="#" class="btn ml-4" role="button" data-bs-toggle="button"><b-icon-download class="mr-2"></b-icon-download>Download CV</a>
             <a href="https://api.whatsapp.com/send?phone=6287717463982" class="btn ml-4" role="button" data-bs-toggle="button"><b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me</a>
         </div>

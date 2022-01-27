@@ -3,15 +3,28 @@
     <div class="container">
       <Navbar/>
       <Portfoliohero/>
-      <div class="notification py-3 px-4 my-4 shadow">
+      <div
+        class="notification py-3 px-4 my-4 shadow"
+        data-aos="fade-left"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false"
+      >
         <h2>Portfolio</h2>
         <p>
-          On this page you can find my recent work of projects related to Web programming and UI/UX.
-          <router-link class="link" to="/certificate"> Click here</router-link> to find certificates that I completed from webinar and training.
+          On this page you can find my recent work of projects related to Web programming.
+          <router-link class="link mr-1" to="/certificate">Click here</router-link>to find certificates that I completed from webinars and training.
         </p>
       </div>
-      <!-- <h1 class="text-center">Portfolio</h1> -->
-      <div class="btn-portfolio d-flex justify-content-center my-4">
+      <div
+        class="btn-portfolio d-flex justify-content-center my-4"
+        data-aos="zoom-in"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="linear"
+        data-aos-once="false"
+      >
         <a @click="target = ''" class="btn" role="button" data-bs-toggle="button">All</a>
         <a
           @click="target = 'website'"
@@ -20,7 +33,6 @@
           data-bs-toggle="button"
         >Website</a>
         <a @click="target = 'ui/ux'" class="btn ml-2" role="button" data-bs-toggle="button">UI/UX</a>
-        <!-- <a @click="target = 'certificate'" class="btn ml-2" role="button" data-bs-toggle="button">Certificate</a> -->
       </div>
 
       <Portfoliocontent :target="target" :portfolio="portfolio"/>
@@ -30,7 +42,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import "../assets/css/portfolio.css";
 import Navbar from "@/components/Navbar.vue";
 import Portfoliohero from "@/components/Portfoliohero.vue";
