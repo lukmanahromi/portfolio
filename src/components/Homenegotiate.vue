@@ -21,7 +21,7 @@
         data-aos-duration="1000"
         data-aos-easing="linear"
         data-aos-once="false">
-            <a href="#" class="btn ml-4" role="button" data-bs-toggle="button"><b-icon-download class="mr-2"></b-icon-download>Download CV</a>
+            <a href="https://drive.google.com/file/d/13tw_IKVyrWnThUn-IjU78issSEEQe_zW/view?usp=sharing" class="btn ml-4" role="button" data-bs-toggle="button"><b-icon-download class="mr-2"></b-icon-download>Download CV</a>
             <a href="https://api.whatsapp.com/send?phone=6287717463982" class="btn ml-4" role="button" data-bs-toggle="button"><b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me</a>
         </div>
       </div>

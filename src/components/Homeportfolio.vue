@@ -14,7 +14,7 @@
             >
               <h2><strong>Portfolio</strong></h2>
               <p>
-                I worked on some projects related to web programming, UI/UX and several certificates that I completed from seminars and training. This is my recent work
+                I worked on some projects related to web programming and several certificates that I completed from webinar and training. This is my recent work!
               </p>
               <div>
 
