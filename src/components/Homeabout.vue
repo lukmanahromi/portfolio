@@ -10,7 +10,7 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="false"
+              data-aos-once="true"
             >
               <img src="../assets/img/hello.svg" class="about-img" alt>
             </div>
@@ -24,7 +24,7 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="false"
+              data-aos-once="true"
             >
               <h2>
                 <strong>About</strong>

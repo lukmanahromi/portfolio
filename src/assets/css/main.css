@@ -123,10 +123,19 @@ img:hover{
     transform: scale(1.08);
 }
 
-.navbar-collapse.collapse.show {
-    max-height: 0.9vh;
-    overflow-y: auto;
-  }
+.navbar-toggler{
+    background-color: #C84B31;
+    color: white !important;
+}
+
+.navbar-toggler[aria-expanded="true"]{
+    background-color: #ff5d3b;
+}
+
+.navbar{
+    padding-left: 0;
+    padding-right: 0;
+}
 
 
 /* Responsive @Tablet Screen */
@@ -180,13 +189,14 @@ img:hover{
   
     .hero-img{
         width: 70%;
-        right: 18%;
+        /* right: 18%; */
     }
     .text-box{
-        font-size: 14px;
+        font-size: 11px;
     }
     .text-box h1{
-        /* font-size: 26px; */
+        font-size: 45px;
+        
     }
     .btn{
         font-size: 9px;
@@ -207,7 +217,10 @@ img:hover{
     }
     .homenegotiate h2{
         text-align: left;
-        /* font-size: 24px; */
+        font-size: 34px;
+    }
+    .homenegotiate .btn{
+        margin-bottom: 10px;
     }
 
     .about-hero img{
@@ -218,5 +231,30 @@ img:hover{
         width: 100%;
     }
 
+    .navbar-nav{
+        padding-left: 0;
+    }
+
+    .navbar{
+        padding-left: 20px;
+        padding-right: 10px;
+    }
+
+  }
+
+
+  @media (min-width: 2300px) {
+      .content{
+          height: 768px;
+      }
+      .homeabout{
+          height: 768px;
+      }
+      .homeportfolio{
+          height: 768px;
+      }
+      .homenegotiate{
+          height: 768px;
+      }
 
   }

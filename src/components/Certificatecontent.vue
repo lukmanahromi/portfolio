@@ -9,7 +9,7 @@
             data-aos-delay="50"
             data-aos-duration="1000"
             data-aos-easing="linear"
-            data-aos-once="false"
+            data-aos-once="true"
           >
             <img :src="data.image" class="card-img-top" alt="..." :title="data.tittle">
           </div>

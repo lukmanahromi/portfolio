@@ -7,7 +7,7 @@
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
-        data-aos-once="false"
+        data-aos-once="true"
       >
         <h3 class="text-light text-center mx-auto">
           Ahrom
@@ -16,29 +16,7 @@
       </div>
       <div class="row mx-auto">
         <div class="col-md-12">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <div class="container">
-              <!-- <button
-                class="navbar-toggler"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-              >
-                <span class="navbar-toggler-icon"></span>
-              </button> -->
-              <div
-                class="collapse navbar-collapse"
-                id="navbarSupportedContent"
-                data-aos="zoom-in"
-                data-aos-delay="50"
-                data-aos-duration="1000"
-                data-aos-easing="linear"
-                data-aos-once="false"
-              >
-                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav mx-auto mb-2 mb-lg-0 list-group list-group-horizontal d-flex justify-content-center">
                   <li class="nav-item mx-3">
                     <router-link class="nav-link text-light" to="/">Home</router-link>
                   </li>
@@ -49,25 +27,22 @@
                     <router-link class="nav-link text-light" to="/portfolio">Portfolio</router-link>
                   </li>
                 </ul>
-              </div>
-            </div>
-          </nav>
           <div
             class="col-md-12 mb-5"
             data-aos="fade-up"
             data-aos-delay="50"
             data-aos-duration="1000"
             data-aos-easing="linear"
-            data-aos-once="false"
+            data-aos-once="true"
           >
             <a href="https://www.instagram.com/lghawy/" class="socmed">
               <b-icon-instagram class="mx-2"></b-icon-instagram>
             </a>
+            <a href="mailto: lukmanahromi@gmail.com" class="socmed">
+              <b-icon-envelope-fill class="mx-2"></b-icon-envelope-fill>
+            </a>
             <a href="https://www.linkedin.com/in/lukmanahromi/" class="socmed">
               <b-icon-linkedin class="mx-2"></b-icon-linkedin>
-            </a>
-            <a href="mailto: lukmanahromi@gmail.com" class="socmed">
-              <b-icon-google class="mx-2"></b-icon-google>
             </a>
             <a href="https://github.com/lukmanahromi" class="socmed">
               <b-icon-github class="mx-2"></b-icon-github>

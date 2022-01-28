@@ -9,7 +9,7 @@
             data-aos-delay="50"
             data-aos-duration="1000"
             data-aos-easing="linear" 
-            data-aos-once="false"
+            data-aos-once="true"
           >
             <vue-typed-js
               :strings="['Lukman Ahromi', 'Fresh Graduate', 'Frontend Enthusiast', 'Positive Person']"
@@ -37,7 +37,7 @@
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
-        data-aos-once="false"
+        data-aos-once="true"
       >
         <img src="../assets/img/hero.png" class="hero-img w-200" alt>
       </div>

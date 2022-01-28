@@ -10,7 +10,7 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="false"
+              data-aos-once="true"
             >
               <h2><strong>Portfolio</strong></h2>
               <p>
@@ -31,7 +31,7 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="false"
+              data-aos-once="true"
             >
               <img src="../assets/img/browser.svg" alt>
             </div>

@@ -4,7 +4,7 @@
         "description": "A portfolio website that shows Ahromi's work as Frontend Enthusiast. This website build by Vue.js.",
         "type": "website",
         "image": "https://drive.google.com/uc?export=view&id=1XpDmKMuAozIC51h2-PHBbP3JX7SVsU9x",
-        "link": "https://github.com/lukmanahromi/OCA-test",
+        "link": "https://github.com/lukmanahromi/portfolio",
         "category": "Vue.js, Bootstrap, HTML, CSS, Javascript",
         "year": "Jan, 2022"
     },
@@ -22,7 +22,7 @@
         "description": "An Image classification web app using python as backend and html, css, & javascript as frontend. The website was built as final project to finish my degree at college.",
         "type": "website",
         "image": "https://drive.google.com/uc?export=view&id=1RkZ78LiRez9_K2IUf-5XmYqhE7psH7UG",
-        "link": "https://github.com/lukmanahromi/OCA-test",
+        "link": "https://github.com/lukmanahromi/Image-Classification-ResNet152",
         "category": "Python, Tensorflow, Keras, HTML, CSS, Javascript, Bootstrap",
         "year": "Mei, 2021 - Juni, 2021"
     },

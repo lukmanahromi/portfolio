@@ -5,7 +5,7 @@
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="linear"
-    data-aos-once="false"
+    data-aos-once="true"
   >
     <div class="container">
       <div class="text-center mt-5">

@@ -11,7 +11,7 @@
                 data-aos-delay="50"
                 data-aos-duration="1000"
                 data-aos-easing="linear"
-                data-aos-once="false"
+                data-aos-once="true"
               >
                 <img class="w-100" :src="data.image" alt srcset>
               </div>
@@ -21,7 +21,7 @@
                 data-aos-delay="50"
                 data-aos-duration="1000"
                 data-aos-easing="linear"
-                data-aos-once="false"
+                data-aos-once="true"
               >
                 <div class="portfolio-tittle">
                   <h3 class="bold border-bottom pb-2">
