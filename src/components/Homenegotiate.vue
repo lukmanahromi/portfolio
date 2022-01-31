@@ -21,8 +21,8 @@
         data-aos-duration="1000"
         data-aos-easing="linear"
         data-aos-once="true">
-            <a href="https://drive.google.com/file/d/13tw_IKVyrWnThUn-IjU78issSEEQe_zW/view?usp=sharing" class="btn"><b-icon-download class="mr-2"></b-icon-download>Download CV</a>
-            <a href="https://api.whatsapp.com/send?phone=6287717463982" class="btn ml-4 px-4"><b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me</a>
+            <a href="https://drive.google.com/file/d/13tw_IKVyrWnThUn-IjU78issSEEQe_zW/view?usp=sharing" class="btn"><b-icon-download class="mr-2"></b-icon-download>Download CV</a> 
+            <a href="https://api.whatsapp.com/send?phone=6287717463982" class="btn ml-4 px-4"><b-icon-telephone class="mr-2"></b-icon-telephone>Contact Me</a> 
         </div>
       </div>
     </div>
