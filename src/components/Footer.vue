@@ -35,7 +35,7 @@
             </li>
           </ul>
           <div
-            class="col-md-12 mb-5"
+            class="col-md-12 mt-2 mb-5"
             data-aos="fade-up"
             data-aos-delay="50"
             data-aos-duration="1000"
