@@ -6,7 +6,7 @@ Library :
 1. Axios [Link](https://github.com/axios/axios)
 2. Bootstrap Vue [Link](https://bootstrap-vue.org/)
 3. AOS [Link](https://github.com/michalsnik/aos)
-```
+
 ## Project setup
 ```
 npm install
