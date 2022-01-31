@@ -1,4 +1,4 @@
-#app{
+#app {
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
@@ -8,25 +8,25 @@
 ::-webkit-scrollbar {
     width: 8px;
 }
- 
+
 ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.5); 
+    -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 5px;
 }
- 
+
 ::-webkit-scrollbar-thumb {
     border-radius: 5px;
     background-color: #C84B31;
 }
 
-.router-link-exact-active{
+.router-link-exact-active {
     font-weight: bold;
     color: #C84B31 !important;
 }
 
-.btn{
+.btn {
     cursor: pointer;
-    color: #fff; 
+    color: #fff;
     background-color: #C84B31;
     font-weight: 500;
     border-radius: 25px;
@@ -36,71 +36,73 @@
     /* cursor: pointer; */
 }
 
-.btn:hover{
+.btn:hover {
     background-color: unset !important;
     color: #fff !important;
     border: 1px solid #ff5d3b !important;
     -ms-transform: scale(1.1);
-    -webkit-transform: scale(1.1); 
-    transform: scale(1.1); 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
-.link{
+.link {
     color: #C84B31;
 }
 
-.link:hover{
+.link:hover {
     color: #ff5d3b;
     text-decoration: none;
 }
 
 /* Footer */
 
-.footer{
+.footer {
     background-color: #191919;
     padding: 100px 0 10px 0;
-    
+
 }
 
-.footer .socmed{
+.footer .socmed {
     color: #C84B31;
     font-size: 20px;
     cursor: pointer;
 }
 
-.footer .socmed:hover{
+.footer .socmed:hover {
     color: #fff;
 }
 
-.footer p{
+.footer p {
     font-size: 14px;
 }
 
-.bold{
+.bold {
     color: #ff5d3b;
 }
 
-.portfolio{
+.portfolio {
     background-color: #212020;
     width: 100%;
 }
 
-.portfolio-hero img{
+.portfolio-hero img {
     width: 500px;
 }
 
-.portfolio-tittle h3{
+.portfolio-tittle h3 {
     font-size: 26px !important;
 }
-.portfolio-body span{
+
+.portfolio-body span {
     font-size: 13px;
 }
 
-.portfolio p{
+.portfolio p {
     letter-spacing: 1px;
     line-height: 26px;
 }
-.notification{
+
+.notification {
     border-top: 6px solid #C84B31;
     border-radius: 8px;
     font-size: 14px;
@@ -108,153 +110,191 @@
     line-height: 26px;
 }
 
-.certificate{
+.certificate {
     background-color: #212020;
 }
 
 
-img{
-    transition: transform .2s;   
+img {
+    transition: transform .2s;
 }
 
-img:hover{
+img:hover {
     -ms-transform: scale(1.1);
-    -webkit-transform: scale(1.1); 
+    -webkit-transform: scale(1.1);
     transform: scale(1.08);
 }
 
-.navbar-toggler{
+.navbar-toggler {
     background-color: #C84B31;
     color: white !important;
 }
 
-.navbar-toggler[aria-expanded="true"]{
+.navbar-toggler[aria-expanded="true"] {
     background-color: #ff5d3b;
 }
 
-.navbar{
+.navbar {
     padding-left: 0;
     padding-right: 0;
+    /* background-color: #191919; */
 }
 
 
 /* Responsive @Tablet Screen */
 @media (min-width: 768px) and (max-width: 1024px) {
-  .home{
-      width: 100%;
-      height: 110vh;
-      /* position: unset; */
-  }
-  .hero{
-      width: 100%;
-      /* height: 85vh; */
-  }
-   .hero-img{
-      width: 260px;
-      /* position: unset; */
-      /* right: 10% */
-   }
-   .text-box h1{
-       font-size: 32px;
-   }
-    
-   .text-box{
-       font-size: 9px;
-   }
-   .btn{
-       font-size: 9px;
-   }
+    .home {
+        width: 100%;
+        height: 110vh;
+        /* position: unset; */
+    }
 
-   .about-img{
-       width: 150%;
-   }
-   .homeportfolio img{
-       width: 150%;
-   }
-   .homenegotiate{
-       height: 130vh;
-   }
-   .homenegotiate img{
-       width: 50%;
-       padding: 5% 5% 0 5%;   
-   }
-   .home h2{
-       font-size: 24px;
+    .hero {
+        width: 100%;
+        /* height: 85vh; */
+    }
 
-   }
+    .hero-img {
+        width: 260px;
+        /* position: unset; */
+        /* right: 10% */
+    }
+
+    .text-box h1 {
+        font-size: 32px;
+    }
+
+    .text-box {
+        font-size: 9px;
+    }
+
+    .btn {
+        font-size: 9px;
+    }
+
+    .about-img {
+        width: 150%;
+    }
+
+    .homeportfolio img {
+        width: 150%;
+    }
+
+    .homenegotiate {
+        height: 130vh;
+    }
+
+    .homenegotiate img {
+        width: 50%;
+        padding: 5% 5% 0 5%;
+    }
+
+    .home h2 {
+        font-size: 24px;
+    }
+
+    .content {
+        height: 320px;
+    }
+
+    .homeabout {
+        height: 460px;
+    }
+    .homeabout p, .homeportfolio p{
+        font-size: 11px;
+    }
+
+    .homeportfolio {
+        height: 420px;
+    }
+
+    .homenegotiate {
+        height: 480px;
+    }
 }
 
 /* Responsive @mobile screen */
 @media (min-width: 320px) and (max-width: 480px) {
-  
-    .hero-img{
+
+    .hero-img {
         width: 70%;
         /* right: 18%; */
     }
-    .text-box{
+
+    .text-box {
         font-size: 11px;
     }
-    .text-box h1{
+
+    .text-box h1 {
         font-size: 45px;
-        
+
     }
-    .btn{
+
+    .btn {
         font-size: 9px;
     }
-    .about-img{
+
+    .about-img {
         width: 100%;
     }
 
-    .homenegotiate{
+    .homenegotiate {
         height: unset;
         padding-bottom: 100px;
     }
-    .homeportfolio img{
+
+    .homeportfolio img {
         width: 100%;
     }
-    .homenegotiate img{
+
+    .homenegotiate img {
         width: 100%;
     }
-    .homenegotiate h2{
+
+    .homenegotiate h2 {
         text-align: left;
         font-size: 34px;
     }
-    .homenegotiate .btn{
+
+    .homenegotiate .btn {
         margin-bottom: 10px;
     }
 
-    .about-hero img{
+    .about-hero img {
         width: 100%;
     }
 
-    .portfolio-hero img{
+    .portfolio-hero img {
         width: 100%;
     }
 
-    .navbar-nav{
+    .navbar-nav {
         padding-left: 0;
     }
 
-    .navbar{
+    .navbar {
         padding-left: 20px;
         padding-right: 10px;
     }
 
-  }
+}
 
+/* Big Screen */
+@media (min-width: 2300px) {
+    .content {
+        height: 768px;
+    }
 
-  @media (min-width: 2300px) {
-      .content{
-          height: 768px;
-      }
-      .homeabout{
-          height: 768px;
-      }
-      .homeportfolio{
-          height: 768px;
-      }
-      .homenegotiate{
-          height: 768px;
-      }
+    .homeabout {
+        height: 768px;
+    }
 
-  }
+    .homeportfolio {
+        height: 768px;
+    }
+
+    .homenegotiate {
+        height: 768px;
+    }
+
+}

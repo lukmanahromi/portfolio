@@ -1,6 +1,6 @@
 <template>
 <div>
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-lg navbar-light ">
     <div class="container">
       <!-- <a class="navbar-brand" href="#">Lukman</a> -->
       <h3 class="text-light">Ahrom<strong style="color:#C84B31">!</strong></h3>

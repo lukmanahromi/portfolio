@@ -16,17 +16,24 @@
       </div>
       <div class="row mx-auto">
         <div class="col-md-12">
-          <ul class="navbar-nav mx-auto mb-2 mb-lg-0 list-group list-group-horizontal d-flex justify-content-center">
-                  <li class="nav-item mx-3">
-                    <router-link class="nav-link text-light" to="/">Home</router-link>
-                  </li>
-                  <li class="nav-item mx-3">
-                    <router-link class="nav-link text-light" to="/about">About</router-link>
-                  </li>
-                  <li class="nav-item mx-3">
-                    <router-link class="nav-link text-light" to="/portfolio">Portfolio</router-link>
-                  </li>
-                </ul>
+          <ul
+            class="navbar-nav mx-auto mb-2 mb-lg-0 list-group list-group-horizontal d-flex justify-content-center"
+            data-aos="fade-right"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="linear"
+            data-aos-once="true"
+          >
+            <li class="nav-item mx-3">
+              <router-link class="nav-link text-light" to="/">Home</router-link>
+            </li>
+            <li class="nav-item mx-3">
+              <router-link class="nav-link text-light" to="/about">About</router-link>
+            </li>
+            <li class="nav-item mx-3">
+              <router-link class="nav-link text-light" to="/portfolio">Portfolio</router-link>
+            </li>
+          </ul>
           <div
             class="col-md-12 mb-5"
             data-aos="fade-up"
@@ -71,9 +78,10 @@
                 </li>
               </div>
             </div>
-          </div> -->
+          </div>-->
           <div>
-            <p>&copy; 2022 Copyright - Lukman Ahromi</p>
+            <!-- <p>&copy; 2022 Copyright - Lukman Ahromi</p> -->
+            <p>Made with <b-icon-heart-fill style="color: #C84B31;" ></b-icon-heart-fill> in Indonesia by Lukman Ahromi</p>
           </div>
         </div>
       </div>

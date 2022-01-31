@@ -9,7 +9,7 @@
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
-        data-aos-once="false"
+        data-aos-once="true"
       >
         <h2>Portfolio</h2>
         <p>
@@ -23,7 +23,7 @@
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
-        data-aos-once="false"
+        data-aos-once="true"
       >
         <a @click="target = ''" class="btn" role="button" data-bs-toggle="button">All</a>
         <a
@@ -59,7 +59,7 @@ export default {
   },
   data() {
     return {
-      portfolio: null,
+      portfolio: null, 
       target: ""
     };
   },

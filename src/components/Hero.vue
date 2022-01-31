@@ -27,7 +27,8 @@
               <br>UI/UX design and QA Engineer. I also motivated to constantly develop
               <br>my skills and grow professionally. Let's know me more!
             </p>
-            <a href="#homeabout" class="btn" role="button" data-bs-toggle="button">About me</a>
+            <!-- <a href="#homeabout" class="btn" role="button" data-bs-toggle="button">About me</a> -->
+            <a href="#homeabout" class="btn">About me</a>
           </div>
         </div>
       </div>

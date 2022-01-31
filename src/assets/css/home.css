@@ -40,7 +40,7 @@
 }
 
 .hero-img{
-    /* width: 540px; */
+    width: 540px;
     position: absolute;
     right: 1%;
     bottom: 0;
@@ -130,6 +130,9 @@ h2{
 } */
 
 
+#homeabout{
+    transition: transform .2s;
+}
 
 /* Home Contact */
 .homecontact{
@@ -137,3 +140,4 @@ h2{
     height: 100vh;
     background-color: #191919;
 }
+

@@ -32,8 +32,17 @@
         "type": "website",
         "image": "https://drive.google.com/uc?export=view&id=1a_F53pLuhPSLfFKQjUzvpdxRSzfcLIu3",
         "link": "#",
-        "category": "Adobe XD, Adobe Photoshop CC 2017",
+        "category": "Bootstrap, DataTables, HTML, CSS, Javascript",
         "year": "Juni, 2019 - August, 2019"
+    },
+    {
+        "tittle": "2D Maze Game",
+        "description": "The project was created in 2018, built using C++ and Unity. Basically this game is 2D Maze Game with a little modification and rules.",
+        "type": "website",
+        "image": "https://drive.google.com/uc?export=view&id=1mMvnBVOoZ1WTCIOSIMYKsdYb5QN6DFHP",
+        "link": "https://github.com/lukmanahromi/FindTheWay",
+        "category": "C++, Unity",
+        "year": "September, 2018"        
     }
     
 ]
