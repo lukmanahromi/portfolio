@@ -17,7 +17,7 @@
               </div>
               <div
                 class="col-md-4"
-                data-aos="fade-left"
+                data-aos="fade-up"
                 data-aos-delay="50"
                 data-aos-duration="1000"
                 data-aos-easing="linear"

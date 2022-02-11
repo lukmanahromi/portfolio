@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="about-education my-4"
+      class="about-education my-4 mx-auto"
       data-aos="fade-right"
       data-aos-delay="50"
       data-aos-duration="1000"

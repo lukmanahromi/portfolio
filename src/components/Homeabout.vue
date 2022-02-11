@@ -20,7 +20,7 @@
           <div class="d-flex h-100">
             <div
               class="justify-content-center align-self-center text-box"
-              data-aos="fade-left"
+              data-aos="fade-up"
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
