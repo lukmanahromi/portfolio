@@ -1,11 +1,17 @@
 # Lukman Ahromi Portfolio
-This project is built by Vue.Js, Bootstrap, HTML, CSS, and Javascript.
+
+A portfolio website that shows my work as Frontend Enthusiast. This project is built by [Vue.Js](https://vuejs.org/), [Bootstrap](https://bootstrap-vue.org/), HTML, CSS, and Javascript. [Click here](https://lukmanahromi.netlify.app/portfolio) to see the result of this project.
 
 
 Library :
-1. Axios [Link](https://github.com/axios/axios)
-2. Bootstrap Vue [Link](https://bootstrap-vue.org/)
-3. AOS [Link](https://github.com/michalsnik/aos)
+1. Vue Router [Link](https://router.vuejs.org/)
+2. Axios [Link](https://github.com/axios/axios)
+3. Bootstrap Vue [Link](https://bootstrap-vue.org/)
+4. AOS [Link](https://github.com/michalsnik/aos)
+
+This project also has responsive screen so you can access nicely on smartphones.
+
+
 
 ## Project setup
 ```
