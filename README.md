@@ -1,6 +1,6 @@
 # Lukman Ahromi Portfolio
 
-A portfolio website that shows my work as Frontend Enthusiast. This project is built by [Vue.Js](https://vuejs.org/), [Bootstrap](https://bootstrap-vue.org/), HTML, CSS, and Javascript. [Click here](https://lukmanahromi.netlify.app/portfolio) to see the result of this project.
+A portfolio website that shows my work as Frontend Enthusiast. This project is built by [Vue.Js](https://vuejs.org/), [Bootstrap](https://bootstrap-vue.org/), HTML, CSS, and Javascript. [https://lukmanahromi.netlify.app/](https://lukmanahromi.netlify.app/) Access the link to see the result of this project.
 
 
 Library :
