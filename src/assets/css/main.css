@@ -45,6 +45,12 @@
     transform: scale(1.1);
 }
 
+.btn:active{
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
 .link {
     color: #ff5d3b;
     text-decoration : underline;

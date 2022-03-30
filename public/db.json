@@ -1,12 +1,39 @@
 [
     {
+        "tittle": "Week 4 Individual Project (Digitalent)",
+        "description": "This project is an individual project of javascript by Digitalent frontend class, basically this project is to make a simple calculator using event listener on javascript.",
+        "type": "website",
+        "image": "https://drive.google.com/uc?export=view&id=1idg4wu06z-lwnNZ4ADmE-kd7jsenGjaA",
+        "link": "https://github.com/lukmanahromi/week4-digitalent-individualproject",
+        "category": "HTML, CSS, Javascript",
+        "year": "March, 2022"
+    },
+    {
+        "tittle": "Week 1 Team Project (Digitalent)",
+        "description": "This Project is built for an assignment of Digitalent program, the aim is making team project using github as version control.",
+        "type": "website",
+        "image": "https://drive.google.com/uc?export=view&id=18JRQhS56l8YYBGmONknnE6CZwzRzPRQk",
+        "link": "https://github.com/lukmanahromi/week1-digitalent",
+        "category": "HTML, CSS",
+        "year": "March, 2022"
+    },
+    {
+        "tittle": "Cookies Consent",
+        "description": "This Project is built for my personal lesson to making a simple cookies consent on the website.",
+        "type": "website",
+        "image": "https://drive.google.com/uc?export=view&id=1TXE7dwp5SGhdwHcbefVdtwvpBaN4AWtj",
+        "link": "https://github.com/lukmanahromi/Cookies-consent-lesson",
+        "category": "HTML, CSS, Javascript",
+        "year": "February, 2022"
+    },
+    {
         "tittle": "Lukman Ahromi's Portfolio (This website)",
         "description": "A portfolio website that shows Ahromi's work as Frontend Enthusiast. This website build by Vue.js.",
         "type": "website",
         "image": "https://drive.google.com/uc?export=view&id=1XpDmKMuAozIC51h2-PHBbP3JX7SVsU9x",
         "link": "https://github.com/lukmanahromi/portfolio",
         "category": "Vue.js, Bootstrap, HTML, CSS, Javascript",
-        "year": "Jan, 2022"
+        "year": "January, 2022"
     },
     {
         "tittle": "Thesis Web App Design (UI/UX)",
