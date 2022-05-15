@@ -12,7 +12,7 @@
             data-aos-once="true"
           >
             <vue-typed-js
-              :strings="['Lukman Ahromi', 'Fresh Graduate', 'Frontend Enthusiast', 'Positive Person']"
+              :strings="['Lukman Ahromi', 'Fresh Graduate', 'Frontend Enthusiast', 'Backend Enthusiast', 'Positive Person']"
               :loop="true"
               :typeSpeed="100"
               :backDelay="2000"
@@ -23,8 +23,8 @@
               </h1>
             </vue-typed-js>
             <p>
-              Willing to work as web programer especially frontend, also interested with
-              <br>UI/UX design and QA Engineer. I also motivated to constantly develop
+              Willing to work as web programer especially frontend, also interested in Backend
+              <br>(Java), UI/UX design and QA Engineer. I also motivated to constantly develop
               <br>my skills and grow professionally. Let's know me more!
             </p>
             <!-- <a href="#homeabout" class="btn" role="button" data-bs-toggle="button">About me</a> -->

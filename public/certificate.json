@@ -10,9 +10,19 @@
         "image": "https://drive.google.com/uc?export=view&id=1xRmK0qzH3vqtDC0D3uknqjHDvqKl83yE"
     },
     {
-        "tittle": "Dicoding - Belajar Dasar Pemrograman Web ",
+        "tittle": "Dicoding - Belajar Dasar Pemrograman Web",
         "type": "learning",
         "image": "https://drive.google.com/uc?export=view&id=1T4SAAeago7xIpHvh701aePPBKdYuj5sT"
+    },
+    {
+        "tittle": "Progate - Kursus Java",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=12bH_AeTBUc1emSb3_6Tp7i9kvhkvnum8"
+    },
+    {
+        "tittle": "Progate - Kursus React",
+        "type": "learning",
+        "image": "https://drive.google.com/uc?export=view&id=12Ds-axiafO-PYHbANUde8-ny6qkvHSp_"
     },
     {
         "tittle": "Progate - Kursus HTML & CSS",

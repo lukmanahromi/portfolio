@@ -6,6 +6,7 @@
     <Aboutme />
     <Abouteducation />
     <Aboutexperiance />
+    <Aboutbootcamp />
     </div>
     <!-- <div class="line"></div> -->
     <Footer />
@@ -21,6 +22,7 @@ import Abouteducation from "@/components/Abouteducation.vue";
 import Aboutexperiance from "@/components/Aboutexperiance.vue";
 import Footer from "@/components/Footer.vue";
 import "../assets/css/about.css";
+import Aboutbootcamp from "../components/Aboutbootcamp.vue";
 
 export default {
   name: "About",
@@ -30,8 +32,9 @@ export default {
     Abouthero,
     Abouteducation,
     Aboutexperiance,
-    Footer
-  }
+    Footer,
+    Aboutbootcamp
+}
 };
 </script>
 

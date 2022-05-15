@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="about-experience my-4 pb-4 mx-auto"
+      class="about-experience my-4 mx-auto"
       data-aos="fade-left"
       data-aos-delay="50"
       data-aos-duration="1000"
