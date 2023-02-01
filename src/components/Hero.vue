@@ -12,7 +12,7 @@
             data-aos-once="true"
           >
             <vue-typed-js
-              :strings="['Lukman Ahromi', 'Fresh Graduate', 'Frontend Enthusiast', 'Backend Enthusiast', 'Positive Person']"
+              :strings="['Lukman Ahromi', 'QA Engineer']"
               :loop="true"
               :typeSpeed="100"
               :backDelay="2000"
