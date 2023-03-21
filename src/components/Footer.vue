@@ -7,11 +7,9 @@
         data-aos-delay="50"
         data-aos-duration="1000"
         data-aos-easing="linear"
-        data-aos-once="true"
       >
         <h3 class="text-light text-center mx-auto">
-          Ahrom
-          <strong style="color:#C84B31">!</strong>
+          Ahrom<strong style="color:#C84B31">!</strong>
         </h3>
       </div>
       <div class="row mx-auto">
@@ -22,7 +20,6 @@
             data-aos-delay="50"
             data-aos-duration="1000"
             data-aos-easing="linear"
-            data-aos-once="true"
           >
             <li class="nav-item mx-3">
               <router-link class="nav-link text-light" to="/">Home</router-link>
@@ -40,7 +37,6 @@
             data-aos-delay="50"
             data-aos-duration="1000"
             data-aos-easing="linear"
-            data-aos-once="true"
           >
             <a href="https://www.instagram.com/lghawy/" class="socmed">
               <b-icon-instagram class="mx-2"></b-icon-instagram>
@@ -58,27 +54,6 @@
               <b-icon-telephone-fill class="mx-2"></b-icon-telephone-fill>
             </a>
           </div>
-
-          <!-- <div class="div">Ahromi</div>
-          <div class="list">
-            <div class="row mx-auto">
-              <div class="col-md-4">
-                <li class="nav-item mx-3">
-                  <router-link class="nav-link text-light" to="/">Home</router-link>
-                </li>
-              </div>
-              <div class="col-md-4">
-                <li class="nav-item mx-3">
-                  <router-link class="nav-link text-light" to="/about">About</router-link>
-                </li>
-              </div>
-              <div class="col-md-4">
-                <li class="nav-item mx-3">
-                  <router-link class="nav-link text-light" to="/portfolio">Portfolio</router-link>
-                </li>
-              </div>
-            </div>
-          </div>-->
           <div>
             <!-- <p>&copy; 2022 Copyright - Lukman Ahromi</p> -->
             <p>Made with <b-icon-heart-fill style="color: #C84B31;" ></b-icon-heart-fill> in Indonesia by Lukman Ahromi</p>

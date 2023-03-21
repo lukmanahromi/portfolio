@@ -6,7 +6,6 @@
       data-aos-delay="50"
       data-aos-duration="1000"
       data-aos-easing="linear"
-      data-aos-once="true"
     >
       <div class="container">
         <h1 class="text mt-3 pb-2">

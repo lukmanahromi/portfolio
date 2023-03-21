@@ -10,15 +10,14 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="true"
             >
-              <h2><strong>Portfolio</strong></h2>
+              <h2><strong>What can I do?</strong></h2>
               <p>
-                I worked on some projects related to web programming and several certificates that I completed from webinar and training. This is my recent work!
+                As QA Engineer I can make an automation test scenario using tools like Katalon Studio. However I also worked on some personal projects related to web programming. I've been completed several Bootcamp, training and webinars.
               </p>
               <div>
 
-                <router-link class="btn" to="/portfolio">Find more</router-link>
+                <router-link class="btn" to="/portfolio">My work</router-link>
               </div>
             </div>
           </div>
@@ -31,7 +30,6 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="true"
             >
               <img src="../assets/img/browser.svg" alt>
             </div>

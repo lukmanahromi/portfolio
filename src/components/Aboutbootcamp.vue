@@ -6,7 +6,6 @@
       data-aos-delay="50"
       data-aos-duration="1000"
       data-aos-easing="linear"
-      data-aos-once="true"
     >
       <div class="container">
         <h1 class="text mt-3 pb-2">
@@ -16,9 +15,9 @@
         <ul class="list-unstyled">
           <li class="pb-3">
             April 2022 - May 2022
-            <strong class="bold">Enigmacamp - Bootcamp Java & Kubernetes</strong>
+            <strong class="bold">Enigmacamp - Bootcamp Java</strong>
             <ul>
-              <li>Java Fundamental, Spring Framework, Postgree SQL, Git, Docker, Kubernetes</li>
+              <li>Java Fundamental, Spring Framework, Postgree SQL, Git</li>
               <li>Live session with mentor 5 times a week</li>
               <li>Finish 5 Challenge (Basic Java, Spring Boot with Postgree SQL)</li>
             </ul>
@@ -36,7 +35,9 @@
             May 2021 - June 2021
             <strong class="bold">Yayasan Anak Bangsa Bisa - Frontend Beginner Level (Generasi Gigih)</strong>
             <ul>
-              <li>Self Learning Basic of HTML, CSS, Javascript</li>
+              <li>Self-paced learning of HTML, CSS, JavaScript Fundamental, English for beginner software developer, and soft skill lessons</li>
+              <li>Attend 3 webinar</li>
+              <li>Blog Challenge</li>
             </ul>
           </li>
         </ul>

@@ -10,7 +10,6 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="true"
             >
               <img src="../assets/img/hello.svg" class="about-img" alt>
             </div>
@@ -24,16 +23,15 @@
               data-aos-delay="50"
               data-aos-duration="1000"
               data-aos-easing="linear"
-              data-aos-once="true"
             >
               <h2>
-                <strong>About</strong>
+                <strong>Who Am I?</strong>
               </h2>
               <p
                 class="ml-4"
-              >My name is Lukman Ahromi, 24 years old. I recently graduated with a 3.08 GPA from INSTITUT TEKNOLOGI NASIONAL BANDUNG with a major in Informatics Engineering.</p>
+              >I'm Lukman Ahromi 25 years old, graduated as Bachelor of Computer Science (B.C.S) from <strong>Institut Teknologi Nasional Bandung</strong> with a major in Informatics. Enjoyed doing code since a long time ago.</p>
               <div>
-                <router-link class="btn ml-1" to="/about">Read more</router-link>
+                <router-link class="btn ml-1" to="/about">Know me more</router-link>
               </div>
             </div>
           </div>
